@@ -149,6 +149,3 @@ CORS_ORIGIN_WHITELIST = [
     'http://igoofficial.com',
     'http://localhost:3000',
 ]
-
-
-APPEND_SLASH = False
