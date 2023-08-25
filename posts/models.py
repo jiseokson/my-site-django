@@ -1,5 +1,4 @@
 from django.db import models
-from ..config.settings import STATIC_ROOT
 
 class Post(models.Model):
     title = models.CharField(max_length=256)
